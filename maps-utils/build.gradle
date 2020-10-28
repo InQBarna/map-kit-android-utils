@@ -28,7 +28,7 @@ android {
 }
 
 dependencies {
-    api "com.github.MrMPN.map-kit-android:maps-core:mapview-SNAPSHOT"
+    api "com.github.MrMPN.map-kit-android:maps-core:fork-SNAPSHOT"
 
     api 'androidx.appcompat:appcompat:1.2.0'
 }
