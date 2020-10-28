@@ -47,8 +47,8 @@ configurations {
 }
 
 dependencies {
-    google 'me.tatiyanupanwong.supasin.android.libraries.kits.maps:maps-google:1.2.1'
-    huawei 'me.tatiyanupanwong.supasin.android.libraries.kits.maps:maps-huawei:1.2.1'
+    google "com.github.MrMPN.map-kit-android:maps-google:mapview-SNAPSHOT"
+    huawei 'com.github.MrMPN.map-kit-android:maps-huawei:mapview-SNAPSHOT'
 
     implementation project(':maps-utils')
 
